@@ -1,8 +1,10 @@
 To run this app
 
-First install all dependencies using command promopt inside project directory
+First install all dependencies using command promopt inside project directory and run this command:
 
 npm install
+
+if you don't have node installed on your system , kindly install node and then run this command
 
 Once the dependencies are installed ,
 
