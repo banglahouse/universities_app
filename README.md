@@ -1,6 +1,6 @@
 To run this app
 
-First install all depnedencies on command promopt inside project directory
+First install all dependencies using command promopt inside project directory
 
 npm install
 
