@@ -1,6 +1,6 @@
 To run this app
 
-First install all dependencies using command promopt inside project directory and run this command:
+First install all dependencies using command prompt inside project directory and run this command:
 
 npm install
 
