@@ -6,7 +6,7 @@ npm install
 
 Once the dependencies are installed ,
 
-Go to the settings of your phone > developers settings (if you're not getting this option, click on the android version in about phones) > enable USB debugging 
+Go to the settings of your phone >additional setting> developers mode (if you're not getting this option, click on the android version in about phones and it will enable developer mode) > enable USB debugging 
 
 Once it's done connect your phone to laptop using cable and run the following command:
 
